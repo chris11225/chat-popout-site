@@ -1,0 +1,9 @@
+Chat Popout — rights notice
+
+Copyright 2026, Chat Popout publisher (identified in privacy.html), to the extent applicable rights subsist. All rights reserved.
+
+This repository contains only the public website and support/privacy information. It does not publish the extension's source code or grant an open-source license to the extension, its branding or this website. Viewing this website is permitted. Further reuse requires the rights holder's permission unless permitted by applicable law or GitHub's terms for public repositories.
+
+Third-party names and trademarks remain the property of their respective owners. No affiliation with Twitch, YouTube, Google or Apple is claimed. This notice does not override applicable statutory rights or claim exclusive rights in third-party material.
+
+Contact: fallende_nachfrist0o@icloud.com
