@@ -8,4 +8,6 @@ Website: https://chris11225.github.io/chat-popout-site/
 Privacy: https://chris11225.github.io/chat-popout-site/privacy.html
 Support: https://chris11225.github.io/chat-popout-site/#support
 
-The Chrome Web Store link will be added after the first release is approved.
+Chrome Web Store: https://chromewebstore.google.com/detail/chat-popout/ilijocfckndlkbclbnnnoojmghkeadgc
+
+Prepared for 4.10.3 on 28 September 2026. This folder is a website-only deployment candidate, not evidence of a completed deployment. Keep the existing public repository and URL; do not upload extension archives or source.
